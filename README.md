@@ -1,2 +1,2 @@
-# odin-recipes
-List of recipes loaded on a website
+List of recipes loaded onto website using html/css.
+         
