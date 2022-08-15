@@ -6,7 +6,7 @@ img {
 }
 
 body {
-	background-image: linear-gradient(to right, pink, lightblue);
+	background-image: linear-gradient(to right, pink, lightblue, #C8A2C8);
 }
 
 h1 {
