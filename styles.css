@@ -1,0 +1,21 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+}
+
+body {
+	background-image: linear-gradient(to right, pink, lightblue);
+}
+
+h1 {
+	color: white;
+	family-font: Verdana, sans-serif;
+	text-align: center;
+	text-weight: 800;
+}
+
+div {
+	text-align: center;
+}
