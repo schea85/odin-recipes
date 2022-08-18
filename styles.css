@@ -19,3 +19,7 @@ h1 {
 div {
 	text-align: center;
 }
+
+li {
+	display: inline-block;
+}
