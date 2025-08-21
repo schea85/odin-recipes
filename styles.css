@@ -1,0 +1,49 @@
+body {
+    background: radial-gradient(circle, pink, lightblue);
+    text-align: center;
+    font-family: Tahoma, san-serif, Arial;
+}
+
+h1 {
+    background-color: midnightblue;
+    color: hotpink;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 10px;
+    
+}
+
+.chef-pic {
+    border-radius: 50%;
+    image-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: lightpink;
+}
+li {
+    list-style-position: inside;
+    text-align: center;
+    background-color: cyan;
+    box-sizing: inline-block;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ul li {
+    list-style-type: square;
+}
+
+.none {
+    list-style-type: none;
+}
+
+a:hover {
+    color: blueviolet;
+}
